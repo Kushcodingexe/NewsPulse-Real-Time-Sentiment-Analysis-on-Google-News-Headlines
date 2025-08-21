@@ -23,8 +23,7 @@ Summary:
   ![alt text](https://github.com/pratikpv/google_news_scraper_and_sentiment_analyzer/blob/master/sample_google_news_final_sentiment.png)
 
 
-### This framework is used in https://github.com/pratikpv/predicting_bitcoin_market
 
-### Credits:
-Code from https://towardsdatascience.com/web-scraping-news-articles-in-python-9dd605799558 is referenced as base to write scraper code.
+
+
 
